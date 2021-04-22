@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #B6B7B5;
+}
+.main-container {
+    margin: 40px auto;
+    background-color: #f4f4f4;
+}
+/* main content */
+.main-content {
+    padding: 90px 100px;
+}
+h3 {
+    color: #311476;
+}
+li {
+    color: #7460A1;
+}
+a {
+    color: #311476;
+}
+h2 {
+    color: #545454;
+}
+img {
+    width: 400px;
+}
+.image-1{
+    float: right;
+    margin: 30px;
+}
+.image-2,
+.image-3,
+.image-4 {
+    height: 370px;
+    margin: 30px;
+}
